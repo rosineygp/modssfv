@@ -25,3 +25,5 @@ Os mods podem ser obtidos no seguinte endereço:
 ![Deviant](assets/devian-download.png)
 
 Após o download basta extrair a imagem no diretório Paks, é necessário reabrir o game.
+
+> Os arquivos listados como C1, C2, CN é referente a roupa que será alterada... no caso C1 irá trocar a roupa 1 do personagem, e caso o CN for de uma roupa que você não possuí, o mod não irá funcionar.
